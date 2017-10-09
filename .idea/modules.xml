@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SiteGenesisTest-master.iml" filepath="$PROJECT_DIR$/.idea/SiteGenesisTest-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SiteGenesisTest-master/speroteck-custom-afac05080e3e2e0b01475b15473cbfcfc9f8754b-afac05080e3e2e0b01475b15473cbfcfc9f8754b/app-support-test-framework.iml" filepath="$PROJECT_DIR$/SiteGenesisTest-master/speroteck-custom-afac05080e3e2e0b01475b15473cbfcfc9f8754b-afac05080e3e2e0b01475b15473cbfcfc9f8754b/app-support-test-framework.iml" />
+    </modules>
+  </component>
+</project>
